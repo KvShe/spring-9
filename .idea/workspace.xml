@@ -4,16 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0cb2dd7-c8bf-467f-8706-f79c0c99fad2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-client/src/main/java/ru/kvshe/eurekaclient/controller/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/some-client/src/main/java/ru/kvshe/someclient/controller/SomeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/some-client/src/main/java/ru/kvshe/someclient/SomeClientApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/some-client/src/main/java/ru/kvshe/someclient/SomeClientApp.java" afterDir="false" />
+    <list default="true" id="b0cb2dd7-c8bf-467f-8706-f79c0c99fad2" name="Changes" comment="homework 9">
+      <change afterPath="$PROJECT_DIR$/img.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +22,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/KvShe/spring-9.git",
+    "accountId": "36806c58-0b89-4896-8287-52b2920861ce"
+  }
+}]]></component>
   <component name="KubernetesApiPersistence">{}</component>
   <component name="KubernetesApiProvider">{
   &quot;isMigrated&quot;: true
@@ -61,6 +59,7 @@
     "Spring Boot.EurekaClientApplication.executor": "Debug",
     "Spring Boot.EurekaServer.executor": "Run",
     "Spring Boot.EurekaServerApp.executor": "Run",
+    "Spring Boot.SomeClientApplication.executor": "Run",
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "corretto-21",
     "kotlin-language-version-configured": "true",
@@ -140,8 +139,17 @@
       <workItem from="1728736244763" duration="5000" />
       <workItem from="1728736259861" duration="14000" />
       <workItem from="1728736377398" duration="3210000" />
-      <workItem from="1728740233867" duration="346000" />
+      <workItem from="1728740233867" duration="690000" />
     </task>
+    <task id="LOCAL-00001" summary="homework 9">
+      <option name="closed" value="true" />
+      <created>1728740724636</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728740724636</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,5 +165,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="homework 9" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework 9" />
   </component>
 </project>
